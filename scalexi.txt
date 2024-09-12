@@ -71,17 +71,15 @@ Exploring Generative AI with ScaleX Innovation
 Discovering the Magic of Generative AI and LLMs on our Medium Blogs
 At ScaleX Innovation, we make the complex world of AI easy to understand. We connect the latest tech with real-world business uses. Explore our articles and keep up with the fast-changing world of AI. Check out our Medium page
 
-Image
 By ScaleXI Fri, 13 Oct 2023 18:39:19 GMT
 Introduction to Diffusion Models (Part III. Diffusion Process)
-Image
+
 By ScaleXI Fri, 13 Oct 2023 17:10:19 GMT
 Introduction to Diffusion Models (Part II: Math Intuitions)
-Image
+
 By ScaleXI Fri, 13 Oct 2023 15:15:00 GMT
 Introduction to Diffusion Models (Part I: Basic Concepts)
 
-ScaleX Innovation Logo
 ScaleX Innovation is at the forefront of integrating AI and emerging technologies into business solutions, driving growth and transformation.
 
 Connect With Us    
@@ -91,10 +89,6 @@ Reach Out on WhatsApp
 +216-55-770-606
 Email Us At
 
-info@scalexi.ai
-Our Headquarter
-
-Route Mahdia km 0.5, Pavillon d’Or Building, 3000 Sfax, Tunisia.
 Quick Links
 About ScaleX
 Our Services
